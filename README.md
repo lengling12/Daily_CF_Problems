@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM105453E](https://codeforces.com/gym/105453/problem/E) | The whole graph is connected in the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0312/solution/cf105453e.md) |
-| *1500 | [GYM105453G](https://codeforces.com/gym/105453/problem/G) | Consider a benchmark and how your choice make a difference to it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0312/solution/cf105453g.md) |
+| *1400 | [GYM102569J](https://codeforces.com/gym/102569/problem/J) | Find a simpler form. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0314/solution/cf102569j.md) |
+| *1800 | [GYM102569D](https://codeforces.com/gym/102569/problem/D) | Find each character step by step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0314/solution/cf102569d.md) |
